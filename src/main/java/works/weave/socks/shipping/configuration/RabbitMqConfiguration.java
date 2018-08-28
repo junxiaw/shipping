@@ -1,3 +1,4 @@
+/*
 package works.weave.socks.shipping.configuration;
 
 import org.springframework.amqp.core.*;
@@ -62,3 +63,4 @@ public class RabbitMqConfiguration {
         return BindingBuilder.bind(queue).to(exchange).with(queueName);
     }
 }
+*/
